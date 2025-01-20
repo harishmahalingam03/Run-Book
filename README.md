@@ -82,7 +82,14 @@ This runbook outlines the process for setting up and managing cloud infrastructu
 ![image](https://github.com/user-attachments/assets/0bc0dd36-dbee-4459-a715-60820127a8e1)
 
 # Build and Deployment Procedures
+
+Below link provides the information about the build pipeline for all (Frontend/Backend/DB) services.
+
 [https://github.com/atomedgesoft/builder/edit/main/Aura-Middleware-Build-Pipeline(Terraform)/README.md]
+
+Below link provides information about the deploy pipeline and its region where it is located.
+
+[https://github.com/atomedgesoft/aura-multi-stage-pipeline]
 
 
 
