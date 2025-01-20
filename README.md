@@ -89,9 +89,11 @@ Below link provides the information about the build pipeline for all (Frontend/B
 
 [https://github.com/atomedgesoft/builder/blob/main/Aura-HRMS-Build-Pipeline(Terraform)/README.md]
 
+[https://github.com/atomedgesoft/builder/blob/main/Aura-Database-Build-Pipeline(Terraform)/README.md]
+
 Below link provides information about the deploy pipeline and its region where it is located.
 
-[https://github.com/atomedgesoft/aura-multi-stage-pipeline]
+[https://github.com/atomedgesoft/aura-multi-stage-pipeline/tree/main]
 
 
 
