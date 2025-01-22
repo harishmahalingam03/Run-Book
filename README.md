@@ -3,7 +3,8 @@
 This runbook outlines the steps to provision and configure a secure, scalable cloud infrastructure for application deployment.
 
 ## Infra-architecture:
-![image](https://github.com/user-attachments/assets/be0e14d9-aee4-4c3f-871e-0c2c11c6371c)
+![Aura-Architecture](https://github.com/user-attachments/assets/56fad0f3-29da-4fc5-870e-344658f3759b)
+
 
 ## Cloud Platform Details:
 
